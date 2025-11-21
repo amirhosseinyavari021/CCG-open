@@ -1,0 +1,19 @@
+{
+  "name": "@amirhosseinyavari/ccg",
+  "version": "3.1.1",
+  "description": "CCG - Secure Installer",
+  "bin": {
+    "ccg": "./bin/ccg"
+  },
+  "scripts": {
+    "postinstall": "node postinstall.js"
+  },
+  "author": "Amirhossein Yavari",
+  "license": "Proprietary",
+  "files": [
+    "bin/",
+    "postinstall.js",
+    "README.md",
+    "LICENSE"
+  ]
+}
