@@ -1,0 +1,77 @@
+Copyright (c) 2024 Amirhossein Yavari & Cando Academy
+All Rights Reserved.
+
+================================================================================
+CCG (Cando Command Generator) - Proprietary License Agreement
+================================================================================
+
+This software, CCG (Cando Command Generator), including its source code,
+binaries, web application, and all related assets ("the Software"),
+is the exclusive intellectual property of Amirhossein Yavari and Cando Academy
+(collectively referred to as "the Owners").
+
+-------------------------------------------------------------------------------
+PERMISSIONS (GRANT OF LICENSE)
+-------------------------------------------------------------------------------
+The Owners hereby grant to users a limited, non-exclusive, non-transferable,
+royalty-free license to use the compiled binaries, the Command-Line Interface
+(CLI) tool, and the web application ("the Software") free of charge,
+subject to the following terms and conditions:
+
+1. **Permitted Use:**  
+   The Software may be used for personal, educational, research, and
+   internal (non-commercial) business operations.
+
+2. **No Cost:**  
+   This license is granted at no monetary cost to the end user.
+
+-------------------------------------------------------------------------------
+RESTRICTIONS (PROHIBITED ACTIONS)
+-------------------------------------------------------------------------------
+Without prior explicit written permission from the Owners, you are strictly
+prohibited from engaging in any of the following:
+
+1. **Modification:**  
+   Modify, translate, adapt, or create derivative works based on the Software.
+
+2. **Decompilation:**  
+   Reverse engineer, decompile, disassemble, or otherwise attempt to discover
+   the source code or underlying ideas or algorithms of the Software
+   (except where such restriction is prohibited by applicable law).
+
+3. **Redistribution:**  
+   Redistribute, sublicense, sell, rent, lease, lend, or otherwise transfer
+   any rights to the Software or any portion thereof.
+
+4. **Commercial Exploitation:**  
+   Use the Software, in whole or in part, as part of a commercial product,
+   service, or offering without a valid commercial license from the Owners.
+
+5. **Removal of Notices:**  
+   Remove, alter, or obscure any proprietary notices, including copyright,
+   trademark, or attribution statements appearing within the Software.
+
+-------------------------------------------------------------------------------
+NO WARRANTY
+-------------------------------------------------------------------------------
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE OWNERS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
+
+-------------------------------------------------------------------------------
+RESERVATION OF RIGHTS
+-------------------------------------------------------------------------------
+All rights not expressly granted herein are reserved by the Owners.  
+The Owners retain full ownership and may modify, update, or revoke this license
+at any time without prior notice.
+
+-------------------------------------------------------------------------------
+CONTACT
+-------------------------------------------------------------------------------
+For commercial licensing, partnership, or other inquiries, please contact:  
+📧  amirhosseinyavari61@gmail.com  
+🌐  https://ccg.cando.ac
